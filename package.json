@@ -1,6 +1,6 @@
 {
-  "name": "reactnativewechatutil",
-  "version": "0.0.1",
+  "name": "react-native-wechat-util",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -9,6 +9,20 @@
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaowei1012/react-native-wechat-util.git"
+  },
+  "keywords": [
+    "react-native-wechat-util",
+    "wechat"
+  ],
+  "author": "zhinian1024",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaowei1012/react-native-wechat-util/issues"
+  },
+  "homepage": "https://github.com/gaowei1012/react-native-wechat-util#readme",
   "dependencies": {
     "react": "18.0.0",
     "react-native": "0.69.1"
