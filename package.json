@@ -1,7 +1,6 @@
 {
   "name": "react-native-wechat-util",
   "version": "1.0.0",
-  "private": true,
   "main": "./index.ts",
   "types": "./lib/types/index.ts",
   "scripts": {
