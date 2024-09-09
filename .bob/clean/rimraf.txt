@@ -1,0 +1,1 @@
+/bin/sh: /Users/zhinian/develop/githubSdk/react-native-wechat-util/node_modules/bob/node_modules/rimraf/bin.js: No such file or directory
