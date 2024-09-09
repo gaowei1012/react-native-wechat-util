@@ -1,6 +1,6 @@
 {
   "name": "react-native-wechat-util",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "reactnative for wechat utils",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
